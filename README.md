@@ -1,2 +1,2 @@
-# lantzalotcreations
+# Lantzalot Creations
 Online Craft Store 
