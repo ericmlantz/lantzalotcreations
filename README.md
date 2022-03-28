@@ -1,5 +1,5 @@
 # Lantzalot Creations eStore
-###By: Eric Lantz
+### By: Eric Lantz
 
 Week of March 28th, 2022
 ***
